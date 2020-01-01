@@ -16,7 +16,7 @@ import pandas as pd
 import scipy.signal
 
 PI2 = np.pi * 2
-
+$ it is a test for git version control
 
 def plot_bitcoin():
     """Plot BitCoin prices and a smoothed time series.
